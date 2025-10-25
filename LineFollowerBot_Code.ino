@@ -1,4 +1,4 @@
-int sensors[5] = {1,2,3,4,7}; 
+int sensors[5] = {12,2,3,4,7}; 
 
 // Motor pins
 int enA = 5;  // Left motor 
